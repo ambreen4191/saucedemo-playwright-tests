@@ -9,7 +9,7 @@ This repository contains a Playwright test suite designed to automate the core u
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/yourusername/saucedemo-playwright-tests.git
+git clone https://github.com/ambreen4191/saucedemo-playwright-tests.git
 cd saucedemo-playwright-tests
 ```
 2. **Install Dependencies:**:
